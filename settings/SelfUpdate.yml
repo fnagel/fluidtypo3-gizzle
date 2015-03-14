@@ -2,3 +2,5 @@ NamelessCoder\Gizzle:
   NamelessCoder\Gizzle\GizzlePlugins\SelfUpdatePlugin:
     enabled: true
     branch: master
+    gitCommand: ~/.toast/armed/bin/git
+    composerCommand: composer
