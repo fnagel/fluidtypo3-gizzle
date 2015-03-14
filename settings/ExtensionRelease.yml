@@ -1,5 +1,5 @@
 NamelessCoder\GizzleTYPO3Plugins:
   NamelessCoder\GizzleTYPO3Plugins\GizzlePlugins\ExtensionRepositoryReleasePlugin:
     enabled: true
-    directory: /tmp/
-
+    directory: /var/www/virtual/fnagel/html/gizzle/tmp
+    gitCommand: ~/.toast/armed/bin/git
