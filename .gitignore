@@ -4,3 +4,4 @@ vendor
 .typo3credentials
 .token
 composer.lock
+web/.htaccess
